@@ -1,0 +1,60 @@
+.gm-style .gm-style-iw-c {
+    box-shadow: none;
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+}
+
+.legend {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.map {
+    width: 70%;
+    height: 700px;
+}
+
+#legend {
+    font-family: Arial, sans-serif;
+    background: #fff;
+    padding: 10px;
+    /* margin: 10px; */
+    /* border: 3px solid #000; */
+    box-shadow: 0 2px 6px rgba(0,0,0,.3);
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+  }
+  
+  #legend > div {
+    margin: 5px 5px;
+  }
+
+  #legend h3 {
+    margin-top: 0;
+  }
+  
+  #legend > div > img {
+    vertical-align: middle;
+    float: left;
+  }
+
+@media screen and (max-width: 480px) {
+    .map {
+        width: 95%;
+    }
+    #legend {
+        bottom: 10px;
+        left: 10px;
+        font-size: small;
+    }
+    #legend > div > img {
+        vertical-align: middle;
+        float: left;
+        width: 20px;
+        height: 20px;
+      }
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "image": "./images/pro1.jpg",
+        "title": "DCE CHILLER",
+        "description": "The state of the art DCE chiller combines exceptional efficiency, quality components, and performance monitoring to ensure the lowest total cost of ownership. The DCE chiller delivers the benefits of industrial-quality ammonia refrigeration in a convenient and factory built package so that the uncertainty of synthetic HFC refrigerants can be easily avoided with a future-proof solution. The DCE chiller is an excellent solution and the natural choice for temperature controlled storage, food production, process cooling, and more. Because it uses a very low charge of ammonia in an outdoor package, it offers an extremely safe option that is easy to install and easy to operate. The DCE chiller has been developed specifically to minimize the refrigeration setup.",
+        "readmore": "https://drive.google.com/file/d/18ElWwo7npKlgk1CXxXMsw-x48d2Mo3Gr/view?usp=share_link",
+        "downloadpdf": "./images/DCE-Chiller.pdf"
+    },
+    {
+        "image": "./images/pro2.jpg",
+        "title": "DESUPERHEATER",
+        "description": "Energy costs have increased significantly over the past few years. In every industry, energy bill is being monitored closely and opportunities explored to reduce it. Desuperheater is an easy solution for instant improvements in your energy bill. It utilizes the waste heat from refrigeration to generate hot water. <br> <br> Generated hot water can be used in following application: <br>• Boiler feed water<br>• Raw Syrup preparation<br>• CIP (Cleaning in place)<br>• Pasteurization<br>• Washing of cans/ utensils<br>• Anywhere in process where temperature range is from 30 °C to 70 °C is required          ",
+        "readmore": "https://drive.google.com/file/d/1IEpa2YRj_k66Kl5TEzSByqNxylj1OI7S/view?usp=share_link",
+        "downloadpdf": "./images/DESUPERHEATER.pdf"
+    },
+    {
+        "image": "./images/pro3.jpg",
+        "title": "CIP(CLEANING IN PLACE) UNIT",
+        "description": "Clean-in-place (CIP) is a method of cleaning the interior surfaces of pipes, vessels, process equipment, filters and associated fittings, without disassembly. The benefit to industries that use CIP is that the cleaning is faster, less labor-intensive and more repeatable, and poses less of a chemical exposure risk to people. DCE provides a portable CIP unit for effective cleaning of your semi welded heat exchangers. <br><br> ADVANTAGES: <br> • Cleaning is faster <br>• Less labour with safety<br>• Less chemical exposure risk<br>• Easily carried out frequently<br>• Reverse and forward flow without changing connections<br>• No need to open PHE<br>• Higher energy efficiency<br>• Longer life of PHE<br>• No need of frequent replacement of Gaskets.",
+        "readmore": "https://drive.google.com/file/d/1IHFeyN4gLdcDqHyNOSLSs6rJNTZhcH50/view?usp=share_link",
+        "downloadpdf": "./images/CIP-BROCHURE.pdf"
+    },
+    {
+        "image": "./images/pro4.jpg",
+        "title": "OIL CHARGING UNIT FOR COMPRESSORS",
+        "description": " During the operation of industrial refrigeration units it is necessary to perform scheduled and non-scheduled compressor oil change. This procedure is rather difficult, especially if it is necessary to warm-up the compressor or if there is no oil pump. DCE offers excellent opportunity that allows escaping any problems connected with oil change. The portable unit is easy to operate and maintain.<br><br>ADVANTAGES:<br>• Saves efforts <br>• Easy oil charging<br>• Safe and comfortable<br>• Entry of air in the system is avoided",
+        "readmore": "https://drive.google.com/file/d/12R-CaHtqRt38rA10P9JR_eksfZMkPHr9/view?usp=sharing",
+        "downloadpdf": "./images/OIL-CHARGING.pdf"
+    }
+]

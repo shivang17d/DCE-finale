@@ -1,0 +1,15 @@
+.info {
+    width: 200px;
+}
+
+.info > img {
+    width: 100px;
+    height: 100px;
+}
+
+.gm-style .gm-style-iw-c {
+    box-shadow: none;
+}
+.custom-info-window {
+    margin-bottom: 10px; /* Specify the desired margin */
+  }
